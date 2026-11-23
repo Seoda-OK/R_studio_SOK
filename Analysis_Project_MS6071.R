@@ -1255,6 +1255,4 @@ fig_pain <- ggplot(
 
 fig_pain
 
-install.packages('flexdashboard')
-install.packages('DT')
 
